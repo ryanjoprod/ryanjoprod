@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Ryan Johanningmeier](@ryanjoprod).
+- 👋 Hi, I’m [Ryan Johanningmeier](https://github.com/ryanjoprod).
 - 👀 I’m interested in neovim, JS, c++.
 - 🌱 I’m currently learning Next.js and c++.
 - 💞️ I’m currently looking to expand my knowledge base.
